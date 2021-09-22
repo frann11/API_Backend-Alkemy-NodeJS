@@ -3,8 +3,8 @@ Backend para challenge de Alkemy, utilizando NodeJS y Sequelize (MySQL) con oper
 
 Requerimientos
 -------------------
-*NodeJS
-*Sequelize
+* NodeJS
+* Sequelize
 
 Modelo DB relacional
 -------------------
