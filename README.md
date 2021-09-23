@@ -6,7 +6,7 @@ Requerimientos
 * NodeJS
 * Sequelize
 
-Modelo DB relacional
+DER (Diseño Entidad-Relacion)
 -------------------
 ![alt text](https://github.com/frann11/Backend-Alkemy-NodeJS/blob/main/relacionesDB.png?raw=true)
 
